@@ -9,6 +9,6 @@ List of necessary software for the hands-on labs:
 * SNPweight: download the .zip file with the python code and example dataset.
 * Docker4Seq: https://github.com/kendomaniac/docker4seq.
   * Dataset necessary for Docker4Seq:
-   * http://igs.di.univr.it/Download/hg38salmon.zip
-   * http://igs.di.univr.it/Download/Archive.zip
+    * http://igs.di.univr.it/Download/hg38salmon.zip
+    * http://igs.di.univr.it/Download/Archive.zip
 * Orange3: download software from https://orange.biolab.si/ and the .zip file from this repository. 
