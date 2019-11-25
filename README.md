@@ -1,5 +1,5 @@
 # ImaGen2019
-Repository with all the necessary files and packages necessary to IEEE Imaging Genetics School 2019 in Verona
+Repository with all the necessary files and packages for the IEEE Imaging Genetics School 2019 in Verona
 
 List of necessary software for the hands-on labs:
 
