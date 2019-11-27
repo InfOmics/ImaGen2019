@@ -13,5 +13,6 @@ List of necessary software for the hands-on labs:
     * http://igs.di.univr.it/Download/Archive.zip
 * Orange3: download software from https://orange.biolab.si/ and the .zip file from this repository. 
 * ADNI genetics data: https://liveuclac-my.sharepoint.com/:f:/g/personal/rmapltm_ucl_ac_uk/ErfjoBDR3FBBvj8woHjV3OABSB4ziXsnRlqH9tkKvvs94A?e=zyeKfm
-   * PSW: Verona 
+   * PSW: Verona
+   * IF ENCOUNTER ANY PROBLEM USE THIS LINK: https://univr-my.sharepoint.com/:u:/g/personal/samuele_cancellieri_univr_it/EXzQx1t64xRLmkn3d83eqWoB8cv3aL5emMoO8rBvVzq3nw?e=zXJX5a
 *  additional python packages: numpy, pandas, matplotlib and scipy
